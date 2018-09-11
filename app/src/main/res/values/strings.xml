@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogStore</string>
+    <string name="breed_bulldog">bulldog</string>
+    <string name="breed_hound">hound</string>
+    <string name="breed_mastiff">mastiff</string>
+    <string name="breed_mountain">mountain</string>
+    <string name="breed_retriever">retriever</string>
+    <string name="app_name_font">fonts/pacifico.ttf</string>
+    <string name="retrofit_on_failure">Server error. Image not faund.</string>
+    <string name="text_view_bread_crumbs">All dogs</string>
+    <string name="dialog_positive_button">Back</string>
+    <string name="dialog_negative_button">Next</string>
+</resources>
